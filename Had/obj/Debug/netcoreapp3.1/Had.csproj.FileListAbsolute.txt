@@ -1,0 +1,77 @@
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.exe
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.deps.json
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.json
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.dev.json
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\source\repos\Had\Had\bin\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.AssemblyReference.cache
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.Form1.resources
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.GenerateResource.cache
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfoInputs.cache
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfo.cs
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.CoreCompileInputs.cache
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\source\repos\Had\Had\obj\Debug\netcoreapp3.1\Had.genruntimeconfig.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.exe
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.deps.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.dev.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.Form1.resources
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.GenerateResource.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfoInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfo.cs
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.exe
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.deps.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.dev.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csprojAssemblyReference.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.Form1.resources
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.GenerateResource.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfoInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfo.cs
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.CoreCompileInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.genruntimeconfig.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.exe
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.deps.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.dev.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.AssemblyReference.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.Form1.resources
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.GenerateResource.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfoInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfo.cs
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.CoreCompileInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.genruntimeconfig.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.exe
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.deps.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.runtimeconfig.dev.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\bin\Debug\netcoreapp3.1\Had.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.AssemblyReference.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.Form1.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.GenerateResource.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfoInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.AssemblyInfo.cs
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.CoreCompileInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.genruntimeconfig.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.AssemblyReference.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.csproj.CoreCompileInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Had\Forms had\Had\Had\obj\Debug\netcoreapp3.1\Had.genruntimeconfig.cache
